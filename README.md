@@ -1,5 +1,6 @@
 These are the files for kibitz web chat application. To run the application on web , first of all download xampp . Now in htdocs folder of xampp copy this folder. 
 Now run the xampp local server and start apche and mysql server. Then click on admin button in front of mysql button in xampp and it will redirect to phpmyadmin.
+First of all create a config folder and add the db.php file in that folder. 
 Now create a new database and import the chatbot.sql file into that database .
 Now on your browser run the command localhost/'name of the folder' and it will take you to the index page of our website. 
 After going to index page first of all signup by giving your username , password and email 
